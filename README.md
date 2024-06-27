@@ -41,7 +41,10 @@
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		
+		<a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@cayambe_tech_software?_t=8nXYNrilG1V&_r=1">
+			<img src="https://img.icons8.com/doodle/40/000000/tiktok.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@jeffercartagena?_t=8nXYT2YJ95Z&_r=1">
+			<img src="https://img.icons8.com/doodle/40/000000/tiktok.png"></a>
 				
       </div>
 
@@ -50,7 +53,7 @@
 ### Publicaciones en mi Blog
 
 <!-- BLOG-POST-LIST:START -->
-
+Muy Pronto
 <!-- BLOG-POST-LIST:END -->
 
 ---
