@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Cayambe Tech Software </a></h1>
 
-<h3 align="center">Apasionado desarrollador de aplicaciones móviles y web desde, Ecuador &#127470;&#127475;</h3>
+<h3 align="center">Apasionado desarrollador de aplicaciones móviles y web desde, Ecuador 🦅</h3>
 
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="left"> <a href="https://www.tiktok.com/@cayambe_tech_software?_t=8nXYNrilG1V&_r=1" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
