@@ -1,16 +1,13 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**CayambeTechSoftware/CayambeTechSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy de Cayambe y me especializo en desarrollo de software, mantenimiento de computadoras y redes. Me apasiona crear soluciones tecnológicas innovadoras y robustas.
 
-Here are some ideas to get you started:
+### Acerca de mí
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo de software.
+- 🌱 Estoy aprendiendo continuamente sobre nuevas tecnologías y métodos de desarrollo.
+- 👯 Estoy buscando colaborar en proyectos interesantes que desafíen mis habilidades.
+- 💬 Puedes preguntarme sobre desarrollo de software, mantenimiento de computadoras o redes.
+- 📫 Cómo contactarme: 0992303026
+- ⚡ Dato curioso: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! Espero poder conectar y colaborar contigo pronto.
