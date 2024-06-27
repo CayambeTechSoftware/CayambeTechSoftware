@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Cayambe Tech Software </a></h1>
 
-<h3 align="center">Apasionado desarrollador de aplicaciones móviles y web desde Pune, Ecuador &#127470;&#127475;</h3>
+<h3 align="center">Apasionado desarrollador de aplicaciones móviles y web desde, Ecuador &#127470;&#127475;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -10,50 +10,55 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente trabajo en <a href="https://phoenix.tech/griffyn/" target="blank">Cayambe Remoto Proyectos Personales</a>
+- 🔭 Actualmente trabajo en <a href="https://phoenix.tech/griffyn/" target="blank">Proyectos para Clientes y Empresas</a>
 
-- 🌱 Actualmente estoy trabajando en aplicaciones Web ,Moviles  (Java,HTML,CSS)
+- 🌱 Actualmente estoy trabajando en aplicaciones Web, Móviles (Java, HTML, CSS)
 
-- 🤝 Disponible para proyectos Java HTML,CSS,JavaScript,Laravel.
+- 🤝 Disponible para proyectos Java, HTML, CSS, JavaScript, Laravel.
 
-- 🌱 Actualmente estoy aprendiendo Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 Actualmente estoy aprendiendo Electrónica y Ciberseguridad <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 Regularmente contribuyo a Proyectos enfocados ala comunidad en Cayambe
+- 📝 Regularmente contribuyo a Proyectos enfocados a la comunidad en Cayambe
 
-- 💬 Pregúntame sobre **Java HTML & Laravel**
+- 💬 Pregúntame sobre **Java, HTML & Laravel**
 
-- 📫 Cómo contactarme: **cayambetechsoftware@gmail.com**
+- 🖥️ Servicios adicionales:
+  - Mantenimiento de computadoras.
+  - Instalación de Office con licencias originales.
+  - Proyectos en Arduino.
 
-- 📄 Conoce más sobre mi experiencia en <a href="https://github.com/CayambeTechSoftware" target="blank">mi currícul</a>
+- 📫 Cómo contactarme: cayambetechsoftware@gmail.com | 0967427400
 
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-       
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/CayambeTechSoftware">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@cayambe_tech_software?_t=8nXYNrilG1V&_r=1">
-			<img src="https://img.icons8.com/doodle/40/000000/tiktok.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@jeffercartagena?_t=8nXYT2YJ95Z&_r=1">
-			<img src="https://img.icons8.com/doodle/40/000000/tiktok.png"></a>
-				
-      </div>
-
+  <div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@cayambe_tech_software?_t=8nXYNrilG1V&_r=1">
+      <img src="https://img.icons8.com/doodle/40/000000/tiktok.png" alt="TikTok">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.tiktok.com/@jeffercartagena?_t=8nXYT2YJ95Z&_r=1">
+      <img src="https://img.icons8.com/doodle/40/000000/tiktok.png" alt="TikTok">
+    </a>
+  </div>
 </p>
 
-### Publicaciones en mi Blog
+<h3 align="center">Contáctame 📞</h3>
+<p align="center">
+  <a href="tel:0967427400">0967427400</a>
+</p>
 
-<!-- BLOG-POST-LIST:START -->
-Muy Pronto
-<!-- BLOG-POST-LIST:END -->
+<h3 align="center">Mantenimiento de Computadoras y más 🔧</h3>
+<p align="center">
+  <img src="https://static.wixstatic.com/media/99e563_caca689d49694d5196f699db5ee949c6~mv2.gif" width="280" alt="Mantenimiento de Computadoras">
+</p>
+
+### Slogan
+
+Junto a ti. La mejor solución siempre 🤝.
 
 ---
+
+Créditos: [Cayambe Tech Software](https://github.com/CayambeTechSoftware)
+
+Última edición:2024
